@@ -7,13 +7,13 @@ An extensive data analysis of the Kaggle Lichess Dataset.
 Use curl,wget,zip or git to get the .ipynb file.
 
 ```bash 
-curl 
+curl https://raw.githubusercontent.com/nimishbongale/Lichess-Data-Analysis/master/Lichess_Data_Analysis.ipynb?token=AKLHGWMEXK3KKUXPKNUEBM26H3IQK
 ```
 ```sh
-wget 
+wget https://raw.githubusercontent.com/nimishbongale/Lichess-Data-Analysis/master/Lichess_Data_Analysis.ipynb?token=AKLHGWMEXK3KKUXPKNUEBM26H3IQK
 ```
 ```git
-git clone 
+git clone https://github.com/nimishbongale/Lichess-Data-Analysis.git
 ```
 
 ## Usage
@@ -21,7 +21,7 @@ git clone
 Run the .ipynb or .py file.
 
 ```python3
-python main.py
+python Lichess_Data_Analysis.py
 ```
 
 ## Contributing
