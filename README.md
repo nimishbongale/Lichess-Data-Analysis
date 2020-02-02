@@ -1,16 +1,16 @@
 # Lichess-Data-Analysis
 
-An extensive data analysis of the Kaggle Lichess Dataset.
+An extensive data analysis of the [Kaggle Lichess Dataset](https://www.kaggle.com/datasnaek/chess).
 
 ## Installation
 
 Use curl,wget,zip or git to get the .ipynb file.
 
 ```bash 
-curl https://raw.githubusercontent.com/nimishbongale/Lichess-Data-Analysis/master/Lichess_Data_Analysis.ipynb?token=AKLHGWMEXK3KKUXPKNUEBM26H3IQK
+curl https://raw.githubusercontent.com/nimishbongale/Lichess-Data-Analysis/master/lichess-data-analysis.ipynb?token=AKLHGWMEXK3KKUXPKNUEBM26H3IQK
 ```
 ```sh
-wget https://raw.githubusercontent.com/nimishbongale/Lichess-Data-Analysis/master/Lichess_Data_Analysis.ipynb?token=AKLHGWMEXK3KKUXPKNUEBM26H3IQK
+wget https://raw.githubusercontent.com/nimishbongale/Lichess-Data-Analysis/master/lichess-data-analysis.ipynb?token=AKLHGWMEXK3KKUXPKNUEBM26H3IQK
 ```
 ```git
 git clone https://github.com/nimishbongale/Lichess-Data-Analysis.git
@@ -21,7 +21,7 @@ git clone https://github.com/nimishbongale/Lichess-Data-Analysis.git
 Run the .ipynb or .py file.
 
 ```python3
-python Lichess_Data_Analysis.py
+python lichess-data-analysis.py
 ```
 
 ## Contributing
